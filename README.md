@@ -1,8 +1,8 @@
 - # ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) **PROGRAM DATA MAHASISWA PYTHON**
 
 ![nama](https://img.shields.io/badge/nama-Ariqoh%20zulaika%20zuhra-purple.svg)
-![nim](https://img.shields.io/badge/nim-312110-purple.svg)
-![kelas](https://img.shields.io/badge/kelas-TI.21.C5-purple.svg)
+![nim](https://img.shields.io/badge/nim-312110138-purple.svg)
+![kelas](https://img.shields.io/badge/kelas-TI.21.A1-purple.svg)
 
 ## **DESKRIPSI**
 
